@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "express": "^4.17.1",
     "mongoose": "^6.1.2",
+    "mongoose-type-url": "^2.1.0",
     "redis": "^3.1.2",
     "shortid": "^2.2.16",
-    "util": "^0.12.4"
+    "util": "^0.12.4",
+    "valid-url": "^1.0.9"
   }
 }
