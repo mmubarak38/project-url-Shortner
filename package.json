@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.2",
+    "shortid": "^2.2.16"
+  }
+}
