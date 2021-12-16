@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mongoose": "^6.1.2",
+    "redis": "^3.1.2",
+    "shortid": "^2.2.16",
+    "util": "^0.12.4"
+  }
+}
