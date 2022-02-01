@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.2",
+    "mongoose-type-url": "^2.1.0",
+    "nodemon": "^2.0.15",
+    "redis": "^3.1.2",
+    "shortid": "^2.2.16",
+    "util": "^0.12.4",
+    "valid-url": "^1.0.9"
+  }
+}
