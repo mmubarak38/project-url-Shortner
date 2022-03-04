@@ -82,6 +82,14 @@ If you haven’t used tinyurl.com before, please try creating a new shortened UR
 ```
 ## Response samples
 
+## 1.Post url response
+![response for post url](https://user-images.githubusercontent.com/93571776/150661518-092f2d6d-be9e-4ece-b328-d44adc90a5e0.png)
+
+## 2.before response
+![befor redirecting ](https://user-images.githubusercontent.com/93571776/150661523-a377380a-4fae-40e1-95ac-2cd42b9aca2c.png)
+## 3.after redirecting Url
+![after redirect the url](https://user-images.githubusercontent.com/93571776/150661540-34d69bd2-ecfd-40c1-9759-95503c002433.png)
+
 
 ### Url shorten response
 ```yaml
